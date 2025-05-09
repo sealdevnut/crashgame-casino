@@ -1,3 +1,6 @@
+contact here if you are looking for dev of casino
+https://x.com/0xmooncity
+
 # Gambling template casino
 
 Casino with game of crash. In development used websockets (socket.io), node.js (adonis.js) and nuxt.js.  
